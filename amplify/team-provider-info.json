@@ -1,0 +1,30 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-recipesaws-dev-211302-authRole",
+      "UnauthRoleArn": "arn:aws:iam::705289595617:role/amplify-recipesaws-dev-211302-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::705289595617:role/amplify-recipesaws-dev-211302-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-recipesaws-dev-211302-deployment",
+      "UnauthRoleName": "amplify-recipesaws-dev-211302-unauthRole",
+      "StackName": "amplify-recipesaws-dev-211302",
+      "StackId": "arn:aws:cloudformation:eu-central-1:705289595617:stack/amplify-recipesaws-dev-211302/28ae20d0-a3d3-11ec-ae04-02a3ef121582",
+      "AmplifyAppId": "dtuwx4zdslpqp"
+    },
+    "categories": {
+      "function": {
+        "recipesfunction": {
+          "deploymentBucketName": "amplify-recipesaws-dev-211302-deployment",
+          "s3Key": "amplify-builds/recipesfunction-43547468565379336472-build.zip"
+        },
+        "listfunction": {
+          "deploymentBucketName": "amplify-recipesaws-dev-211302-deployment",
+          "s3Key": "amplify-builds/listfunction-37674276333734486549-build.zip"
+        }
+      },
+      "auth": {
+        "recipesaws8779d317": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/recipes": {
+      "name": "/recipes",
+      "lambdaFunction": "recipesfunction",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

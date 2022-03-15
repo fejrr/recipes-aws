@@ -1,0 +1,10 @@
+{
+  "resourceName": "listdb",
+  "tableName": "listdb",
+  "partitionKey": {
+    "fieldName": "nazwa",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
